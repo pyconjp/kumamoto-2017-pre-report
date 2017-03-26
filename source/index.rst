@@ -10,6 +10,10 @@ Welcome to PyCon mini Kumamoto 事前レポート's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   about_pycon_mini_kumamoto
+   talks
+   other_plans
+   venue
 
 
 Indices and tables
